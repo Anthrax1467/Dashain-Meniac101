@@ -1,0 +1,8 @@
+{
+  "name": "Dashain Meniac",
+  "description": "An all-in-one gaming portal for festive fun featuring Snake, Ludo, Langur Burja, and card games with a token-based wallet system.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
